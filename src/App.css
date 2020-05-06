@@ -1,0 +1,39 @@
+body{
+    background-color:pink;
+    font-family: cursive;
+    text-align: center;
+}
+
+.link {
+    color: blue;
+}
+
+.link:hover{
+    color:violet;
+}
+
+.link:visited{
+    color:pink;
+}
+
+a{
+    color: blue;
+}
+a:visited{
+    color: pink;
+}
+
+
+a:hover{
+    color: violet;
+}
+
+
+p{
+    color: gray;
+}
+
+img{
+    width: 680px;
+    height: 460px;
+}
